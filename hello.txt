@@ -1,0 +1,4 @@
+hello world"[D[D[C[C[C[
+
+Z
+cat>hello.txt
